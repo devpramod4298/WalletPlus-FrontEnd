@@ -1,6 +1,6 @@
 # WalletPlus-FrontEnd
 
-- A secured web App 
+- A secured web App created with react and Material UI.
 - Register/Login functionality.
 - can reset the password if forgotten.
 - can recharge the wallet.
